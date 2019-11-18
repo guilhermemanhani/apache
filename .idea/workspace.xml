@@ -7,17 +7,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="284a8d5c-18ee-4929-86cd-3d43a0f4adb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/mysql_mysql_connector_java_5_1_48.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/org_hibernate_hibernate_core_5_4_8_Final.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/agenda/model/Group.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web/group.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Groups.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exemplo-apache.iml" beforeDir="false" afterPath="$PROJECT_DIR$/exemplo-apache.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -55,6 +50,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -262,6 +258,7 @@
       <workItem from="1573255113615" duration="664000" />
       <workItem from="1573510808852" duration="3881000" />
       <workItem from="1573601422731" duration="913000" />
+      <workItem from="1574079198485" duration="1452000" />
     </task>
     <servers />
   </component>
