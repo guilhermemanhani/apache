@@ -7,11 +7,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="284a8d5c-18ee-4929-86cd-3d43a0f4adb5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Contact.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Groups.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/br/edu/unifil/entities/Phone.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -258,7 +253,7 @@
       <workItem from="1573255113615" duration="664000" />
       <workItem from="1573510808852" duration="3881000" />
       <workItem from="1573601422731" duration="913000" />
-      <workItem from="1574079198485" duration="1452000" />
+      <workItem from="1574079198485" duration="1678000" />
     </task>
     <servers />
   </component>
