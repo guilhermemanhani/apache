@@ -8,6 +8,11 @@
   <component name="ChangeListManager">
     <list default="true" id="284a8d5c-18ee-4929-86cd-3d43a0f4adb5" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/agenda/model/Group.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/entities/Contact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/agenda/model/Contact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/entities/Groups.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/agenda/model/Groups.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/entities/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/agenda/model/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -52,6 +57,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="br.edu.unifil.agenda.model" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\labinfo\Documents\Guilherme\exemplo-apache\web\" />
     </key>
@@ -254,6 +262,8 @@
       <workItem from="1573510808852" duration="3881000" />
       <workItem from="1573601422731" duration="913000" />
       <workItem from="1574079198485" duration="1678000" />
+      <workItem from="1574166717187" duration="105000" />
+      <workItem from="1574166870574" duration="575000" />
     </task>
     <servers />
   </component>

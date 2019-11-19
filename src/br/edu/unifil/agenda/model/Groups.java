@@ -1,5 +1,4 @@
-package br.edu.unifil.entities;
-
+package br.edu.unifil.agenda.model;
 import javax.persistence.*;
 import java.util.List;
 
@@ -33,7 +32,7 @@ public class Groups {
         this.phones = phones;
     }
 
-    public Groups() {
+    public Groups(String groups_id) {
     }
 
     public Integer getId() {

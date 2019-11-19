@@ -1,6 +1,6 @@
 package br.edu.unifil.servlet;
 
-import br.edu.unifil.agenda.model.Group;
+import br.edu.unifil.agenda.model.Groups;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
@@ -15,7 +15,7 @@ import java.io.IOException;
 public class groupservlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        Group group = new Group(req.getParameter("description"));
+        Groups group = new Groups(req.getParameter("groups_id"));
 
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("jpa-lab3-aula");
 

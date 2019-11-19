@@ -1,4 +1,4 @@
-package br.edu.unifil.entities;
+package br.edu.unifil.agenda.model;
 
 import javax.persistence.*;
 import java.util.List;
