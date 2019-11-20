@@ -21,11 +21,11 @@
         <url-pattern>/hellocontato</url-pattern>
     </servlet-mapping>
     <servlet>
-        <servlet-name>group</servlet-name>
+        <servlet-name>groups</servlet-name>
         <servlet-class>br.edu.unifil.servlet.groupservlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>group</servlet-name>
-        <url-pattern>/group</url-pattern>
+        <servlet-name>groups</servlet-name>
+        <url-pattern>/groups</url-pattern>
     </servlet-mapping>
 </web-app>

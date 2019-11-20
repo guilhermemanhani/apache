@@ -11,10 +11,10 @@
     <title>Agenda - criar grupo</title>
 </head>
 <body>
-    <form method="post" action="">
+    <form method="post" action="/groups">
         <label>Descrição</label>
         <input type="text" name="description" id="description">
-        <button type="salvar"></button>
+        <button type="submit">Enviar</button>
     </form>
 </body>
 </html>
