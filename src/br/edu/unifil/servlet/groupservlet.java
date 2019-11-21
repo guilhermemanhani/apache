@@ -17,7 +17,7 @@ public class groupservlet extends HttpServlet {
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
         Groups group = new Groups(req.getParameter("groups_id"));
 
-        EntityManagerFactory emf = Persistence.createEntityManagerFactory("jpa-lab3-aula");
+        EntityManagerFactory emf = Persistence.createEntityManagerFactory("lab3");
 
         EntityManager em = emf.createEntityManager();
 
