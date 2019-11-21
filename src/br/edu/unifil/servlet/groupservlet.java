@@ -15,7 +15,7 @@ import java.io.IOException;
 public class groupservlet extends HttpServlet {
     @Override
     protected void doPost(HttpServletRequest req, HttpServletResponse resp) throws ServletException, IOException {
-        Groups group = new Groups(req.getParameter("groups_id"));
+        Groups group = new Groups(req.getParameter("description"));
 
         EntityManagerFactory emf = Persistence.createEntityManagerFactory("lab3");
 

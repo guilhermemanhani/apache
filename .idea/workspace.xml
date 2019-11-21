@@ -7,6 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="284a8d5c-18ee-4929-86cd-3d43a0f4adb5" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/org_hibernate_hibernate_core_5_2_12_Final.xml" afterDir="false" />
@@ -50,6 +51,41 @@
       <change beforePath="$PROJECT_DIR$/out/production/exemplo-apache/br/edu/unifil/servlet/groupservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exemplo-apache/br/edu/unifil/servlet/groupservlet.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/FastInfoset-1.2.15.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/antlr-2.7.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/byte-buddy-1.10.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/classmate-1.3.4.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/dom4j-2.1.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-commons-annotations-5.1.0.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/hibernate-core-5.4.8.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/istack-commons-runtime-3.0.7.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jandex-2.0.5.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javassist-3.24.0-GA.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.activation-api-1.2.0.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.persistence-api-2.2.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/javax.servlet-api-4.0.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-api-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jaxb-runtime-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-logging-3.3.2.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/jboss-transaction-api_1.2_spec-1.1.1.Final.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/stax-ex-1.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/txw2-2.3.1.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/classes/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/classes/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/classes/br/edu/unifil/agenda/model/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/classes/br/edu/unifil/servlet/groupservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/classes/br/edu/unifil/servlet/groupservlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/group.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/exemplo_apache_war_exploded/group.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exemplo-apache/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exemplo-apache/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exemplo-apache/br/edu/unifil/agenda/model/Group.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/exemplo-apache/br/edu/unifil/servlet/groupservlet.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/exemplo-apache/br/edu/unifil/servlet/groupservlet.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/META-INF/persistence.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/META-INF/persistence.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/br/edu/unifil/servlet/groupservlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/web.xml" afterDir="false" />
+>>>>>>> 19e85282b8f675310a436238bcd5e890853b3227
       <change beforePath="$PROJECT_DIR$/web/group.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/group.jsp" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -104,9 +140,13 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
+<<<<<<< HEAD
     <property name="project.structure.side.proportion" value="0.35547575" />
+=======
+    <property name="project.structure.side.proportion" value="0.37941176" />
+>>>>>>> 19e85282b8f675310a436238bcd5e890853b3227
     <property name="settings.editor.selected.configurable" value="preferences.applicationServers" />
   </component>
   <component name="RecentsManager">
@@ -114,7 +154,11 @@
       <recent name="br.edu.unifil.agenda.model" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+<<<<<<< HEAD
       <recent name="$PROJECT_DIR$/src/META-INF" />
+=======
+      <recent name="C:\Users\labinfo\Documents\Guilherme\exemplo-apache\web\WEB-INF" />
+>>>>>>> 19e85282b8f675310a436238bcd5e890853b3227
       <recent name="C:\Users\labinfo\Documents\Guilherme\exemplo-apache\web\" />
     </key>
   </component>
