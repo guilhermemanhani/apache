@@ -3,6 +3,7 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
+@Table(name = "Groups_pu")
 public class Groups {
 
     @Id
@@ -32,8 +33,10 @@ public class Groups {
         this.phones = phones;
     }
 
-    public Groups(String groups_id) {
+    public Groups(String descricao) {
+        this.descricao = descricao;
     }
+    public Groups(){}
 
     public Integer getId() {
         return id;

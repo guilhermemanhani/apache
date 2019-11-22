@@ -1,12 +1,10 @@
 package br.edu.unifil.agenda.model;
 
-import javax.persistence.Entity;
-import javax.persistence.GeneratedValue;
-import javax.persistence.Id;
-import javax.persistence.ManyToMany;
+import javax.persistence.*;
 import java.util.List;
 
 @Entity
+@Table(name = "Contact_pu")
 public class Contact {
 
     @Id

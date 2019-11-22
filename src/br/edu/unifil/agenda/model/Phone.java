@@ -4,6 +4,7 @@ import javax.persistence.*;
 import java.util.List;
 
 @Entity
+@Table(name = "Phone_pu")
 public class Phone {
 
     @Id
